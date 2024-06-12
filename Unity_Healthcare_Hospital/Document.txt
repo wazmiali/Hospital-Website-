@@ -1,0 +1,76 @@
+This Project is based on Hospital Website .
+Name of Project: Unity Health Care Hospital
+
+Use Technology.
+HTML
+CSS
+JavaScript
+PHP
+MySql Database XAMPP
+----------------------------------------------------------------------------------------------------------------------------
+IDE Use Software.
+Im use Visual Stdio Code 
+----------------------------------------------------------------------------------------------------------------------------
+There are a 8 Html files we cover the webpage of Project.
+ HTML File Name :
+1. website.html
+2. about.html
+3. services.html
+4. contact.html
+5. book_appointment.html
+6. doctor.html
+7. emergency,html
+8. feedback.html
+----------------------------------------------------------------------------------------------------------------------------
+There are a 3 PHP files they use to backent in this project.
+PHP File Name :
+1. back_book.php
+2. contact.php
+3. feedback.php
+-----------------------------------------------------------------------------------------------------------------------------
+There are a 3 CSS files they use to Style give the webpage.
+CSS File Name :
+1. Back_color.css
+2. contact.css
+
+There are a 1 JavaScript file they use to maintain the formate of website.
+JavaScript File Name :
+1. resp.js
+
+=================================================================================================================================
+                        Database
+Where are you save the data of this project.
+Im use the XAMPP server to store the database of this project.
+
+Database Name is : unity_healthcare
+There are 3 tables be store all data of this project.
+
+Table 1 Name is: book_appointment
+Table 2 Name is: contact
+Table 3 Name is: feedback
+--------------------------------------------------------------------------------------------------------------------------------
+Table 1 Have a 8 column They have a multiple Rows we save the data.
+column one is Sno:
+column two is Name:
+column three is Phone:
+column four is Email:
+column five is Address: 
+column six is Date:
+column seven is Message:
+column eight is Age:
+---------------------------------------------------------------------------------------------------------------------------------
+Table 2 contact there are a 4 column.
+column one is Sno:
+column two is Name:
+column three is Email:
+column four is Contact:
+column five is Message:
+----------------------------------------------------------------------------------------------------------------------------------
+Table 3 feedback there a have also 5 columns.
+column one is Sno:
+column two is Name:
+column three is Email:
+column four is Feedback:
+column five is Date:
+===================================================================================================================================
+
